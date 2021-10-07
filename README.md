@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Callum Axon and I am a Full-Stack Software Engineer based in the United Kingdom.
+
+I have a passion for microservice architectures and performant applications which make peoples lives easier.
+
+- 🔭 I contribute to open-source projects with VATSIM UK. 
+- 📫 How to reach me: me@callumaxon.uk
+- 🌱 I’m currently learning: Golang, Advanced React and Graph Databases
+- 📕 I'm always looking to learn new techologies and techniques to create maintainable & sustainable software
+- 💻 My technologies of choice currently consist of:
+  - Python (FastAPI for web APIs)
+  - PHP / Laravel
+  - VueJS or React
+  - TailwindCSS
+  - PostgreSQL or MySQL
+
 <!--
 **AxonC/AxonC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
