@@ -2,12 +2,14 @@
 
 My name is Callum Axon and I am a Full-Stack Software Engineer based in the United Kingdom.
 
-I have a soft-spot for microservice architectures and enjoy creating performant applications which improves peoples lives. 
+I  enjoy creating performant applications and software which improves peoples lives. 
 
-- 🔭 I contribute to open-source projects with VATSIM UK. 
-- 📫 How to reach me: me@callumaxon.uk
+- 🔭 I contribute to open-source projects with the voluntary organisation VATSIM UK. 
+- ⚡️ I currently work as a Software Engineer in the energy industry
+- 📫 You can reach out to me at: me@callumaxon.uk
 - 🌱 I’m currently learning: Golang, Advanced React and Graph Databases
 - 📕 I'm always looking to learn new techologies and techniques to create maintainable & sustainable software
+- 🎉 I am a big advocate of Test Driven Development (TDD), microservice architectures and clean code
 - 💻 My technologies of choice currently consist of:
   - Python (FastAPI for web APIs)
   - PHP / Laravel
