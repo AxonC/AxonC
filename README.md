@@ -2,7 +2,7 @@
 
 My name is Callum Axon and I am a Full-Stack Software Engineer based in the United Kingdom.
 
-I have a passion for microservice architectures and performant applications which make peoples lives easier.
+I have a soft-spot for microservice architectures and enjoy creating performant applications which improves peoples lives. 
 
 - 🔭 I contribute to open-source projects with VATSIM UK. 
 - 📫 How to reach me: me@callumaxon.uk
