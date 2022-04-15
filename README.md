@@ -7,7 +7,6 @@ I  enjoy creating performant applications and software which improves peoples li
 - 🔭 I contribute to open-source projects with the voluntary organisation VATSIM UK. 
 - ⚡️ I currently work as a Software Engineer / Technical Lead in the energy industry
 - 📫 You can reach out to me at: me@callumaxon.uk
-- 🌱 I’m currently learning: Advanced React
 - 📕 I'm always looking to learn new techologies and techniques to create maintainable & sustainable software
 - 🎉 I am a big advocate of Test Driven Development (TDD), microservice architectures and clean code
 - 💻 My technologies of choice currently consist of:
