@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-My name is Callum Axon and I am an Full-Stack Software Engineer, currently in a Technical Lead role, based in the United Kingdom.
+My name is Callum Axon and I am an Full-Stack Software Engineer based in the United Kingdom.
 
 I thrive in creating performant applications and software which improves peoples lives. 
 
 - 🔭 I contribute to open-source projects with the voluntary organisation VATSIM UK. 
-- ⚡️ I currently work as a Software Engineer / Technical Lead in the energy sector
+- ⚡️ I currently work as a Software Engineer in the renewable energy sector
 - 📫 You can reach out to me at: me@callumaxon.uk
 - 📕 I'm always looking to learn new techologies and techniques to create maintainable & sustainable software
 - 🎉 I am a big advocate of Test Driven Development (TDD), microservice architectures and clean code
 - 💻 My technologies of choice currently consist of:
   - Python (FastAPI for web APIs)
+  - Typescript & Node
   - PHP / Laravel
   - Golang
   - VueJS or React / Preact
   - TailwindCSS
-  - PostgreSQL, Cassandra or MySQL
+  - PostgreSQL, Cassandra, DynamoDB or MySQL
   - JanusGraph (Tinkerpop and Gremlin)
 
 <!--
